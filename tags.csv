@@ -1,0 +1,3 @@
+resource,key,value
+arn:aws:s3:::testbucketmarianne,cost_tag,high_cost
+arn:aws:s3:::bucketmariannecertification,department,HR
